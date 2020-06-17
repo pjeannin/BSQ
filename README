@@ -1,0 +1,11 @@
+This Epitech project can be a tool usefull for different projects.
+
+You give to the programme a text file which is a map full of '.' and '*'.
+'.' are empty space and the goal of this project is to find the biggest empty square
+in this map.
+
+How to use it : 
+
+./bsq map_file
+
+there are maps in the map-intermediate folder
